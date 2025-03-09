@@ -19,7 +19,7 @@ import java.util.Map;
 
 public class Generator {
 
-  private static final String TOKEN = "74fe1d32-3e6c-11ed-8636-7617f3863de9";
+  private static final String TOKEN = "token";
   private static final String GHN_DOMAIN = "https://online-gateway.ghn.vn/";
   private static final String PROVINCES_URI = "shiip/public-api/master-data/province";
   private static final String DISTRICTS_URI = "shiip/public-api/master-data/district";
